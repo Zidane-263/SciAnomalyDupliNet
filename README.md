@@ -22,6 +22,10 @@ This framework utilizes a dual-domain (spatial + frequency) anomaly detection ap
 - `train.py`: Primary orchestration script outlining the training steps and stability loops.
 - `visualize.py`: Visual plotting and output saving logic.
 
+## 🗄️ Dataset
+This framework is built and evaluated in conjunction with the Kaggle competition dataset: **[RECOD.ai - Scientific Image Forgery Detection](https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection)**.
+To train or test the model using this dataset, download it directly from Kaggle and update the `DATA_DIR` path in `config.py`.
+
 ## 🛠️ Getting Started
 
 ### 1. Installation

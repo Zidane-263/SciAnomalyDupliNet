@@ -1,0 +1,10 @@
+__pycache__/
+checkpoints/
+predictions/
+IF-Data/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+venv/
+env/
